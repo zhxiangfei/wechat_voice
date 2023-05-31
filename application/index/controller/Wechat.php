@@ -8,8 +8,8 @@ use think\Controller;
 class Wechat extends Controller
 {
 
-	protected  $APPID = 'wxb3b89a8c3882ff51';
-	protected  $APPSECRET = '0a40b7bd8f03b947867dd99441d9ba78';
+	protected  $APPID = 'xxxxxx';
+	protected  $APPSECRET = 'xxxxxx';
 
 	/**
 	* 微信服务器配置时 验证token的url

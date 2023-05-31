@@ -260,8 +260,4 @@ return [
         'reset' => true
     ],
 
-     // 拍照识别配置
-    'APIKER'    =>  'I0YHyB6j7vztLPR2e8UWGPXc',
-    'SECTERKEY' =>  '4EjKAH47yD8vgtI7uHy9qCUoTok74YeV',
-
 ];
